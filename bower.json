@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "homepage": "https://github.com/anthonyschurz/rapid-prototype.git",
+  "authors": [
+    "Anthony Schurz <anthonyschurz@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css-only": "^3.3.6",
+    "angular": "^1.5.2"
+  }
+}
